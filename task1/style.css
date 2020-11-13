@@ -1,0 +1,26 @@
+ul{
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: burlywood; 
+  background: black;
+  overflow: hidden;
+     
+}
+li a {
+  display: block;
+  color: white;
+  padding: 14px 14px;
+  text-align: center;
+  
+}
+li {
+  float: left;
+}
+
+section {
+  display: block ;
+  border-spacing: 20px;
+  text-align: center;
+}
